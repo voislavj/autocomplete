@@ -5,6 +5,7 @@ Rakefile
 assets/autocomplete-loading.gif
 assets/autocomplete.css
 assets/autocomplete.js
+autocomplete.gemspec
 init.rb
 install.rb
 lib/autocomplete.rb
